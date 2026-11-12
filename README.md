@@ -75,7 +75,7 @@ No key is needed.
 
 ## Pictures
 
-![The first part: HO! HO! HO!](docs/crazy-santa-ho.png)
+![The first part: Santa grins, waves and wishes you a MERRY CHRISTMAS](docs/crazy-santa-merry.png)
 
 ![The second part: the spectrum, Santa's rainbow, the wishes](docs/crazy-santa-wishes.png)
 
