@@ -1,4 +1,4 @@
-# crazy-santa
+# Crazy Santa
 
 Santa on his sleigh over a snowy village, the eight reindeer in a flying gallop, Jingle Bells on the
 four SIDs, and a show. A short, silly Christmas piece for the MEGA65.
@@ -75,7 +75,7 @@ No key is needed.
 
 ## Pictures
 
-![The first part: Santa grins, waves and wishes you a MERRY CHRISTMAS](docs/crazy-santa-merry.png)
+![The first part: Santa turns to you and grins](docs/crazy-santa-grin.png)
 
 ![The second part: the spectrum, Santa's rainbow, the wishes](docs/crazy-santa-wishes.png)
 
@@ -93,7 +93,7 @@ A MEGA65 (R6A) in PAL, core 890-sdcard-native build #63 (commit 1c737937), ROM 9
 
 ## Credits
 
-crazy-santa 1.0, 2026, by Dawid Blachowski, with Claude, Anthropic's AI.
+Crazy Santa 1.0, 2026, by Dawid Blachowski, with Claude, Anthropic's AI.
 psinco. A Software Atelier from Luxembourg.
 
 - Written with Claude, Anthropic's AI, which wrote the code, drew the pictures, arranged the music
@@ -111,5 +111,4 @@ psinco. A Software Atelier from Luxembourg.
 
 ## Terms
 
-crazy-santa is free, under the MIT licence: see [LICENSE](LICENSE). Its source code is not
-published.
+Crazy Santa is free, under the MIT licence: see [LICENSE](LICENSE).
